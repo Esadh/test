@@ -11,6 +11,7 @@ namespace test
         static void Main(string[] args)
         {
             //kaj delamo
+            //haha
         }
     }
 }
